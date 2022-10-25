@@ -1,0 +1,13 @@
+[
+    {
+        "name"        : "T Shirt",
+        "slug"        : "t-shirt",
+        "created_at"  : "2022-01-01 00:00:00"
+    },
+
+    {
+        "name"        : "Hoddie",
+        "slug"        : "hoddie",
+        "created_at"  : "2022-01-01 00:00:00"
+    }
+]

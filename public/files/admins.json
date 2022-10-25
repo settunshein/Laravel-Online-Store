@@ -1,0 +1,23 @@
+[
+    {
+        "id"          : 1,
+        "name"        : "Mg Mg",
+        "email"       : "mgmg@gmail.com",
+        "phone"       : "09123123123",
+        "nrc"         : "12/LaMaNa(N)123123",
+        "gender"      : "male",
+        "address"     : "Yangon",
+        "created_at"  : "2022-01-01 00:00:00"
+    },
+
+    {
+        "id"          : 2,
+        "name"        : "Ag Ag",
+        "email"       : "agag@gmail.com",
+        "phone"       : "09213213123",
+        "nrc"         : "12/LaMaNa(N)213213",
+        "gender"      : "male",
+        "address"     : "Yangon",
+        "created_at"  : "2022-01-02 00:00:00"
+    }
+]

@@ -1,0 +1,25 @@
+Left Tasks
+### User Side
+01 - User Dashboard ( Order History / Profile / Update Password )
+02 - Product Page
+03 - Review and Start Rating in Product Details Page ( Optional )
+
+### Admin Side
+01 - User Profile
+02 - To Fix Search Issue
+03 - Dashboard ( Widgets Card / Bar Chart (Optional) / Pie Chart (Optional) )
+04 - Print ( Order Details )
+05 - Manipulate Stock
+06 - Access Control ( Cannot Delete System Admin and . . . )
+07 - Profile Module
+08 - Password Module
+09 - Image Unlink
+10 - Technical Comments ( Refactoring )
+11 - Sending Mail to Customer After Submitted Order ( Optional )
+12 - DB Notification - New Order Alert ( Optional )
+13 - Mail Notification - New Order Alert ( Optional )
+14 - Integrate Rich Text Editor in Product Module ( Optional )
+
+Additional Tasks ( Optional )
+- Soft Delete ( All Module )
+- Whishlist Module
